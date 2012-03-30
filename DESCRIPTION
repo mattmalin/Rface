@@ -1,0 +1,10 @@
+Package: Rface
+Version: 0.0.1
+Date: 2012-03-30
+Title: Facial recognition information using Rface API
+Author: Matt Malin <email@mattmalin.co.uk>
+Maintainer: Matt Malin <email@mattmalin.co.uk>
+Description: Facial recognition using the face.com API.
+Imports:
+    XML
+License: GPL (>= 2)
